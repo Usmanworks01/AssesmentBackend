@@ -67,8 +67,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Requirment to Run Code
-1: Php =< 8.0
-2: Composer =< 2.0
+1: Php >= 8.0
+2: Composer >= 2.0
 
 
 ## Step to run projects
